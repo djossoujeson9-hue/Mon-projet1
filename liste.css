@@ -1,0 +1,14 @@
+/* Listes à puces non ordonnées */
+.cercle{list-style-type: circle;}
+.carré{list-style-type: square;}
+.rien{list-style-type: none;}
+/* Listes à puces ordonnées */
+.commence_a_zero{list-style-type: decimal-leading-zero;}
+.lettres_minuscules{list-style-type: lower-alpha;}
+.chiffre_romains{list-style-type: upper-roman;}
+.lettres_grecque{list-style-type: lower-greek;}
+/* Quelques styles supplémentairesjuste pour la présentation
+En plus ça vous fait quelques rappels;o) */
+h2,h3{text-indent: 20px;font-family: arial,Verdana,"Times New Roman",serif;}
+em{background-color: yellow;}
+strong{color: red;}

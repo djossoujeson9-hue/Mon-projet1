@@ -1,0 +1,6 @@
+td{border:1px solid black; padding: 150px;border-collapse:collapse ;}
+table{border:4px double ; text-align: center }
+.font1{background-color: blue;}
+.font2{background-color: aqua;}
+.diagonal{transform: rotate(20deg);display:inline-block}
+.dg{transform: rotate(-20deg);display: inline-block;}

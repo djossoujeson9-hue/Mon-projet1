@@ -1,0 +1,6 @@
+li{font-size: x-large; border: 2px solid black; padding: 10px; margin: 5px 0; width: 200px; text-align: center;}
+ul{list-style: none; padding: 0;}
+a{text-decoration: none; color: black; display: block;}
+li:hover{background-color: lightgray;}
+h1{text-align: 
+    center;}
